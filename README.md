@@ -19,7 +19,9 @@
 
 ## DEMO 🎥  
 Check out the app in action below:  
-👉 [Insert demo video link or gif here]
+
+https://github.com/user-attachments/assets/948ddd1e-da4b-456d-8c0c-20cb2b32872e
+
 
 ---
 
